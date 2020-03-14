@@ -1,4 +1,4 @@
-# Fastmailer
+# Fast Mailer
 
 Create a temporary email  
 
