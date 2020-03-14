@@ -8,9 +8,8 @@ A just-for-fun project!
 
 ### Prerequisites
 
-Postfix, Apache2  
-PHP, Javascript  
-Raspberry Pi 3B (or a VPS)
+Raspberry Pi 3B (or a VPS)  
+Postfix, Apache2, PHP  
 
 ### Installing
  
