@@ -1,0 +1,28 @@
+#resulttable {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#resulttable th {
+  border: 1px solid #00288f;
+  padding: 8px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #99ff33;
+  color: black;
+}
+
+.origin, .mailbody{
+  border: 1px solid #00288f;
+  padding: 8px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: black;
+}
+
+.origin{
+  text-align: left;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  background-color: #c2feff;
+}
