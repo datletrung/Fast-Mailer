@@ -28,9 +28,9 @@ Download the repository and extract in to website directory (/var/www/html):
 git clone https://github.com/datletrung/onetimemail.git
 ```
 
-A user on this Linux system will be an email. For example, Raspberry Pi has default user is "pi", there will be an email "pi@yourdomain.com".  
-New email will come into /home/yourusername/mailbox/new/ (if you config your Postfix follow the tutorial above).  
-File /mailer/fetch.php will pull out email from this folder. Therefore, if your configurations are different from me, you should change this in /mailer/fetch.php
+A user on this Linux system will be an email. For example, Raspberry Pi has default user is "pi", there will be an email pi@yourdomain.com.  
+New email will come into /home/yourusername/mailbox/new/ (if you configured your Postfix follow the tutorial above).  
+File /mailer/fetch.php will pull out email from this folder. Therefore, if your configuration are different from me, you should change this in /mailer/fetch.php  
 
 ### Running the code
 
