@@ -27,6 +27,7 @@ if($_SESSION['username'] != "" && $_SESSION['username'] != $ip){
 <body>
 	<!---<a href="../auth/">Login</a>--->
 	<!---<a href="../auth/logout.php">Logout</a>--->
+	<button class="button" type="button" style="width:100%" onclick='window.location.href = "/";'>Homepage</button><br><br>
 	<button class="button" id="create" type="button" onclick="create();" style="width:100%">Create new email</button><br><br>
 	<center><div class="noti" id="noti"></div></center><br>
 	<button style="display:none" class="button" id="refresh" type="button" onclick="update();" style="width:100%">Refresh</button>

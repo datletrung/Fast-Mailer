@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head id="head">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> or <a href="https://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+        
+		<div id="header"></div>
+
+        <!-- Homepage Slider -->
+        <div class="homepage-slider">
+        	<div id="sequence">
+				<ul class="sequence-canvas">
+					<!-- Slide 1 -->
+					<li class="bg4">
+						<!-- Slide Title -->
+						<h2 class="title">No Spam Email</h2>
+						<!-- Slide Text -->
+						<h3 class="subtitle">With Fast Mailer, you can receive emails from anywhere without worrying about deleting spam email</h3>
+						<!-- Slide Image -->
+						<img class="slide-img" src="img/homepage-slider/slide1.png" alt="Slide 1" />
+					</li>
+					<!-- End Slide 1 -->
+					<!-- Slide 2 -->
+					<li class="bg3">
+						<!-- Slide Title -->
+						<h2 class="title">Accurate Content</h2>
+						<!-- Slide Text -->
+						<h3 class="subtitle">Fast Mailer receives and displays correctly email content with a good support of attachments and images</h3>
+						<!-- Slide Image -->
+						<img class="slide-img" src="img/homepage-slider/slide2.png" alt="Slide 2" />
+					</li>
+					<!-- End Slide 2 -->
+					<!-- Slide 3 -->
+					<li class="bg1">
+						<!-- Slide Title -->
+						<h2 class="title">Secure</h2>
+						<!-- Slide Text -->
+						<h3 class="subtitle">With best secure method, Fast Mailer encrypts and decrypts every single email. You don't have to worry of your contents being exposed</h3>
+						<!-- Slide Image -->
+						<img class="slide-img" src="img/homepage-slider/slide3.png" alt="Slide 3" />
+					</li>
+					<!-- End Slide 3 -->
+				</ul>
+				<div class="sequence-pagination-wrapper">
+					<ul class="sequence-pagination">
+						<li>1</li>
+						<li>2</li>
+						<li>3</li>
+					</ul>
+				</div>
+			</div>
+        </div>
+        <!-- End Homepage Slider -->
+		
+		<div id="price"></div>
+		<div id="footer"></div>
+
+        <!-- Javascripts -->
+		<script>
+		$(function(){
+			$("#head").load("head.html");
+			$("#header").load("header.html");
+			$("#price").load("price.html");
+			$("#footer").load("footer.html");
+		});
+		</script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="https://cdn.leafletjs.com/leaflet-0.5.1/leaflet.js"></script>
+        <script src="js/jquery.fitvids.js"></script>
+        <script src="js/jquery.sequence-min.js"></script>
+        <script src="js/jquery.bxslider.js"></script>
+        <script src="js/main-menu.js"></script>
+        <script src="js/template.js"></script>
+    </body>
+</html>

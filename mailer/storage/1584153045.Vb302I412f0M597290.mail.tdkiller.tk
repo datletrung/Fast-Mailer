@@ -1,0 +1,542 @@
+Return-Path: <letrungcaotung@gmail.com>
+X-Original-To: dluxuozpgz@mail.tdkiller.tk
+Delivered-To: dluxuozpgz@mail.tdkiller.tk
+Received: from mail-qv1-f41.google.com (mail-qv1-f41.google.com [209.85.219.41])
+	by mail.tdkiller.tk (Postfix) with ESMTPS id 6B46B412EC
+	for <dluxuozpgz@mail.tdkiller.tk>; Fri, 13 Mar 2020 20:30:45 -0600 (MDT)
+Received: by mail-qv1-f41.google.com with SMTP id c28so5788375qvb.10
+        for <dluxuozpgz@mail.tdkiller.tk>; Fri, 13 Mar 2020 19:30:45 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=1cBzyluZwSEoWjQYVBYz7nGtjPEfFgmgGRNxQW0HqI8=;
+        b=UbLZBweY+sEqyMbRf9KiEI/1mNqM9A5cIf4oYx4HNNOTwZjRkjONZCCoLyaGq+MRUZ
+         Pq57+z1RZSg4SyXOGmBAEqcyGb+RhWRwfLnkETifm+SSAJuPwEEw+mwfQyhS5oe5OKuo
+         skSiU4mMj7bLNyySCh/b9YzlYiRaoSMtwwwoSlohJrsTNpZYdpvj//DzxhchpcHRP59G
+         59qJ4miDkyVl2mPbm1YLPm+SOKPvumCRwM55PlCzdWFCpVPgjsD/5E0j69roQ/lUD6to
+         S+rfLpcsrcmXLL4XQ0saJ4HmY2jrULr3oifDw0xMtfPolvtBfIHiNQ2FajJK3aI02CYF
+         FEWQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=1cBzyluZwSEoWjQYVBYz7nGtjPEfFgmgGRNxQW0HqI8=;
+        b=uP59E5CAY2m8gCGkUOSVveOGXRhEFH4Lp6TvxxCs1Tp8CVswKPyOkHfABZeGwBb2Ui
+         QJ3qyGBH2A8YoOjaD3w/UyVwFjpAfdVIymr3PG16mVXtn6vNldPdoKoTi3J6OR9OtU9k
+         qJZetC9VqP6uCJtQ1c6DW8sdYO3rroI9VPb33lTFi/c8hYXK6senZV7gTZNPUDaiJ+5O
+         e4CilmPA7NfUNROT+9CR9t6bRRLK2KaKSxaPpyG6xrPydLQ+nvP1z5XyCWXfQASDtPoo
+         Duo+YVJO6K7EyIfHKk2fQm85Bh0DcWFnoLnrr4FSX814yQXoh52bgydAHjgtLD3cXO1C
+         hKdQ==
+X-Gm-Message-State: ANhLgQ2ZHCnMG73DUSzQALCy4lr0WARSNwytavIoiOvoWM040r57H39X
+	kCOeuC6Avg3nofzqDOWLtTBL17LxUGwBn0qcw5rzRzSQ
+X-Google-Smtp-Source: ADFU+vugv0hYknL2TOWWPW/cpDozMovjxAio8xQ8lWShE4dSlYUfMbALM9YRjUlsMP/S9Wf4uxnt77gjiUi5UbrJ7MU=
+X-Received: by 2002:a0c:c20f:: with SMTP id l15mr15510273qvh.157.1584153043400;
+ Fri, 13 Mar 2020 19:30:43 -0700 (PDT)
+MIME-Version: 1.0
+References: <1e564cf3-bb37-4a33-84d2-7f5d4d3f7355@dfw1s10mta470.xt.local>
+In-Reply-To: <1e564cf3-bb37-4a33-84d2-7f5d4d3f7355@dfw1s10mta470.xt.local>
+From: Tin Lee <letrungcaotung@gmail.com>
+Date: Fri, 13 Mar 2020 20:30:31 -0600
+Message-ID: <CAMCP680fheg=p1owyvJALgnEdGZ9YKLrRh0Ssz2Zv8Bty2w0dQ@mail.gmail.com>
+Subject: Fwd: Send Your AP Scores for Free
+To: dluxuozpgz@mail.tdkiller.tk
+Content-Type: multipart/alternative; boundary="0000000000006bfaee05a0c75f28"
+
+--0000000000006bfaee05a0c75f28
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Choose a college or university to receive your 2020 AP score report.
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C
+=E2=80=8C  =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C
+=E2=80=8C =E2=80=8C  =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C  =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C
+[image: College Board]
+<https://click.e.collegeboard.org/?qs=3Dc34b8d9579b6f57960160de2c191c1fdaae=
+5f11dcf1fd386d9f4fc41e2f748554bcb9c26217bc21f0381fccfe3b4d22848c88264076710=
+a15c3d40f47711bf73>
+<https://click.e.collegeboard.org/?qs=3Dc34b8d9579b6f579cc31ac87bb69ac3a992=
+4bac5fb58aaf02ccdc33c85d53dd9a54c080c0f4a118b4e5f5e57d87e1964ef2d1642941423=
+a5a7f66a9ac78243fd>
+[image: AP]
+<https://click.e.collegeboard.org/?qs=3Dc34b8d9579b6f5790214fa261f096d904d1=
+2fa32e0a69592264d34324f0a893330060fce1b5ceb19dd5754993faef89823b53985b83da5=
+e72917ddcfa1854981>
+
+Send Your AP Scores
+
+Dear Student,
+
+If you're taking an AP=C2=AE Exam in May, make sure to sign in to My AP
+<https://click.e.collegeboard.org/?qs=3Dc34b8d9579b6f5792a45e706e6864756568=
+f53a26e2c81ef99df22187e76b826c62919044b732a3b3fab1bfc85071ae5210bf0c2ffde8d=
+b1d5a9f64e8497b822>
+and choose one college or university to receive your 2020 AP score report
+for free. This year, you won't be choosing a college on exam day=E2=80=94yo=
+u can
+only do it online. Here's how:
+1.
+
+Sign in to My AP
+<https://click.e.collegeboard.org/?qs=3Dc34b8d9579b6f5797d6eb3bf7f312630105=
+cb319f0d511cab5d19729859fbd024d8f3680c7420a3c02828dc1b8e57d68347b6b8b57b3b3=
+eec9e512a35b54e32b>
+using your College Board username and password.
+2.
+
+Go to *My AP Profile*, and select *Score Send*.
+3.
+
+Type in the name of your college or university. When it appears on the
+list, select it and hit *Save*.
+Sign In to My AP
+<https://click.e.collegeboard.org/?qs=3Dc34b8d9579b6f57937b15feb3aa0a5b4896=
+574985ac778e3656a3842ee983862f24f98b69dd7349f4769323ab12db2153f376a7b9dc962=
+66c669048b51faa0bd>
+
+Your score report will include your AP scores from this year and any
+previous years. If you haven't yet decided which college or university you
+want to receive your free score send, you have until June 20 to choose one.
+You get one free score send each year that you take an AP Exam. If you want
+to send AP scores to additional colleges, you can do so for a fee on the AP
+Scores website
+<https://click.e.collegeboard.org/?qs=3Dc34b8d9579b6f57910eb9d8fa0ee55b4edb=
+d733c6696696d26c328d95568841f102b57c89d8b81745ee5e05e5f213c48a18097423f1b5c=
+592ec0282c0157a2af>
+.
+
+By sending scores, you can take full advantage of AP by strengthening your
+college applications and being considered for credit and placement.
+
+Sincerely,
+
+Advanced Placement Program
+
+[image: College Board]
+<https://click.e.collegeboard.org/?qs=3Dc34b8d9579b6f579163dd5865f98cb51a6e=
+9d6e6a3bbb7c70c5bdc8c0d85752e2e8590b6215b7aeb7e5b3bb9d9d2bf1f23c435b0d483ba=
+dcb1e6a9e8cc3c4fac>
+<https://click.e.collegeboard.org/?qs=3Dc34b8d9579b6f579a9b0534413d145f9113=
+60eddcee5917817d6575e0ede6c763d23958ca2990f99890acf4d8713e54fa4603b844b2ec2=
+e1a54833c79daa0878>
+
+<https://click.e.collegeboard.org/?qs=3Dc34b8d9579b6f579914a3906680a4a380e6=
+037acf8ff7af966d8af5b1eaf3234928f0ad51c2100ecca824a572ded4c188654b6643497ec=
+867c354c89c41fb103>
+
+<https://click.e.collegeboard.org/?qs=3Dc34b8d9579b6f579e2c991a5a24da8e9346=
+e6abce69253d9861b19f6f3b1bcbbceb01028880165aaa281105e47ca09913e9282ac1b1e22=
+e1ba16db9b2336c17b>
+
+<https://click.e.collegeboard.org/?qs=3Dc34b8d9579b6f579ae9c9dc3b300f2500a9=
+55f2fd0692c2d610eabac34edddf54b67b0ce514cd5dca40a25c16cc76bf180fccaa83b301a=
+cc03272af18b620d18>
+
+*College Board* | 250 Vesey Street | New York, NY 10281
+
+View as webpage
+<https://view.e.collegeboard.org/?qs=3Dea1a6371682818dc85e94918a04312aff628=
+13db6b5bd10829705815f548cebbd7ee6776082dd03b56c0947968637e5a827dda94dc3ddd6=
+0b560a7f3d4cd8f8651274a5cc1fb52e83a2d71c5baaefa97>
+| Customer Service
+<https://click.e.collegeboard.org/?qs=3Dc34b8d9579b6f579d6f47b5daab080428a5=
+6a1c4dcabe6bc6efa7031a223d6d001190ba12ade2abfa554b01bd5208225049fd56c73fa8b=
+15eff719cc189bbe23>
+
+To ensure these emails make it to your inbox, please add
+collegeboard@e.collegeboard.org to your address book.
+
+=C2=A9 2020 College Board
+
+--0000000000006bfaee05a0c75f28
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_quote"><br><u></u>
+
+=20
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+=20
+ <div class=3D"m_-3371128284935590371email-body">
+<div style=3D"font-size:1px;display:none!important">Choose a college or uni=
+versity to receive your 2020 AP score report.</div>
+  <div style=3D"display:none;max-height:0px;overflow:hidden">
+  =20
+ =20
+ =C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=
+=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=
+=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0
+=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=
+=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=
+=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=
+=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=
+=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=
+=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0
+  </div>
+  <div style=3D"height:1px;overflow:hidden"><img src=3D"https://click.e.col=
+legeboard.org/open.aspx?ffcb10-febf1677756c0d7b-fe3416757561057c711372-fe41=
+15707564047b751370-ff6e157075-fe2815767d660778701273-ff3715727767" width=3D=
+"1" height=3D"1" style=3D"display: none !important;"></div>
+  <table id=3D"m_-3371128284935590371backgroundTable" width=3D"100%" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"background-color:#eaeae=
+a">
+   <tbody><tr>
+    <td align=3D"center">
+     <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+      <tbody><tr>
+       <td class=3D"m_-3371128284935590371main" align=3D"center" style=3D"w=
+idth:640px">
+        <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"=
+min-width:100%"><tbody><tr><td><table border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"100%">
+=20
+  <tbody><tr>
+   <td align=3D"center" style=3D"padding:20px 20px 10px">
+    <table bgcolor=3D"#0077C8" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%">
+    =20
+      <tbody><tr>
+       <td>
+        <table bgcolor=3D"#009CDE" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" width=3D"100%">
+        =20
+          <tbody><tr>
+           <td>
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+            =20
+              <tbody><tr>
+               <td bgcolor=3D"#000000" style=3D"font-size:0;line-height:0">
+                <div class=3D"m_-3371128284935590371logo-desk" style=3D"dis=
+play:none;height:0;overflow:hidden">
+                 <a href=3D"https://click.e.collegeboard.org/?qs=3Dc34b8d95=
+79b6f57960160de2c191c1fdaae5f11dcf1fd386d9f4fc41e2f748554bcb9c26217bc21f038=
+1fccfe3b4d22848c88264076710a15c3d40f47711bf73" target=3D"_blank"><img alt=
+=3D"College Board" src=3D"https://image.e.collegeboard.org/lib/fe4115707564=
+047b751370/m/1/61578ff9-53ac-49af-a0ed-7041ee8e3f31.png" style=3D"display:b=
+lock;margin:0px;border:0px;padding:0px;width:152px;font-family:Arial,sans-s=
+erif;font-size:18px;text-align:center;color:#ffffff" width=3D"152"></a></di=
+v><div class=3D"m_-3371128284935590371logo-mob">
+                 <a href=3D"https://click.e.collegeboard.org/?qs=3Dc34b8d95=
+79b6f579cc31ac87bb69ac3a9924bac5fb58aaf02ccdc33c85d53dd9a54c080c0f4a118b4e5=
+f5e57d87e1964ef2d1642941423a5a7f66a9ac78243fd" target=3D"_blank"><img alt=
+=3D"" src=3D"https://image.e.collegeboard.org/lib/fe4115707564047b751370/m/=
+1/1791f18b-9a09-4180-b887-e1891837033d.png" style=3D"display:block;margin:0=
+px;border:0px;padding:0px;width:45px" width=3D"45"></a></div></td><td>
+                <a href=3D"https://click.e.collegeboard.org/?qs=3Dc34b8d957=
+9b6f5790214fa261f096d904d12fa32e0a69592264d34324f0a893330060fce1b5ceb19dd57=
+54993faef89823b53985b83da5e72917ddcfa1854981" target=3D"_blank"><img alt=3D=
+"AP" src=3D"https://image.e.collegeboard.org/lib/fe4115707564047b751370/m/1=
+/824531c6-31f4-4f35-a8b3-8cb44ab8aa91.jpg" style=3D"display:block;margin:0p=
+x;border:0px;padding:0px;font-family:Arial,sans-serif;font-size:18px;text-a=
+lign:center;color:#ffffff" width=3D"50"></a></td></tr></tbody></table></td>=
+</tr></tbody></table></td></tr><tr>
+       <td>
+        <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%">
+        =20
+          <tbody><tr>
+           <td align=3D"center" class=3D"m_-3371128284935590371stack-wrappe=
+r">
+            <div class=3D"m_-3371128284935590371column1">
+             <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+             =20
+               <tbody><tr>
+                <td align=3D"center" style=3D"padding:40px 20px 20px">
+                 <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%">
+                 =20
+                   <tbody><tr>
+                    <td align=3D"left" style=3D"padding:0px 0px 12px">
+                     <h1 style=3D"font-family:Roboto Slab,Rockwell,Arial,sa=
+ns-serif;font-size:35px;font-weight:normal;line-height:38px;color:#ffffff;t=
+ext-align:left;margin:0px;padding:0px">
+                    Send Your AP Scores</h1></td></tr></tbody></table></td>=
+</tr></tbody></table></div></td></tr></tbody></table></td></tr></tbody></ta=
+ble></td></tr></tbody></table></td></tr></tbody></table>
+        <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"=
+min-width:100%"><tbody><tr><td><table border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"100%">
+=09
+		<tbody><tr>
+			<td align=3D"center" style=3D"padding-top:10px;padding-left:20px;padding=
+-right:20px;padding-bottom:0px">
+				<table bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%">
+				=09
+						<tbody><tr>
+							<td align=3D"center" style=3D"padding:20px">
+								<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%">
+								=09
+										<tbody><tr>
+											<td align=3D"left" style=3D"padding:0px 0px 20px">
+												<p style=3D"font-family:Roboto,Arial,sans-serif;font-size:16px;=
+font-weight:normal;line-height:20px;color:#000000;text-align:left;margin:0p=
+x;padding:0px">
+													Dear Student,<br>
+													<br>
+													If you&#39;re taking an AP=C2=AE Exam in May, make sure to sig=
+n in to <a href=3D"https://click.e.collegeboard.org/?qs=3Dc34b8d9579b6f5792=
+a45e706e6864756568f53a26e2c81ef99df22187e76b826c62919044b732a3b3fab1bfc8507=
+1ae5210bf0c2ffde8db1d5a9f64e8497b822" style=3D"color:#009cde;text-decoratio=
+n:underline" target=3D"_blank">My AP</a> and choose one college or universi=
+ty to receive your 2020 AP score report for free. This year, you won&#39;t =
+be choosing a college on exam day=E2=80=94you can only do it online. Here&#=
+39;s how:</p></td></tr><tr>
+											<td>
+												<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+												=09
+														<tbody><tr>
+															<td align=3D"left" style=3D"font-family:Roboto,Arial,sans-se=
+rif;font-size:16px;font-weight:normal;line-height:20px;color:#000000;text-a=
+lign:left;margin:0px;padding:0px" valign=3D"top">
+																1.</td><td align=3D"left" style=3D"padding:0px 14px 16px 10=
+px" valign=3D"top">
+																<p style=3D"font-family:Roboto,Arial,sans-serif;font-size:1=
+6px;font-weight:normal;line-height:20px;color:#000000;text-align:left;margi=
+n:0px;padding:0px">
+																	Sign in to <a href=3D"https://click.e.collegeboard.org/?qs=
+=3Dc34b8d9579b6f5797d6eb3bf7f312630105cb319f0d511cab5d19729859fbd024d8f3680=
+c7420a3c02828dc1b8e57d68347b6b8b57b3b3eec9e512a35b54e32b" style=3D"color:#0=
+09cde;text-decoration:underline" target=3D"_blank">My AP</a> using your Col=
+lege Board username and password.</p></td></tr><tr>
+															<td align=3D"left" style=3D"font-family:Roboto,Arial,sans-se=
+rif;font-size:16px;font-weight:normal;line-height:20px;color:#000000;text-a=
+lign:left;margin:0px;padding:0px" valign=3D"top">
+																2.</td><td align=3D"left" style=3D"padding:0px 14px 16px 10=
+px" valign=3D"top">
+																<p style=3D"font-family:Roboto,Arial,sans-serif;font-size:1=
+6px;font-weight:normal;line-height:20px;color:#000000;text-align:left;margi=
+n:0px;padding:0px">
+																	Go to <strong>My AP Profile</strong>, and select <strong>S=
+core Send</strong>.</p></td></tr><tr>
+															<td align=3D"left" style=3D"font-family:Roboto,Arial,sans-se=
+rif;font-size:16px;font-weight:normal;line-height:20px;color:#000000;text-a=
+lign:left;margin:0px;padding:0px" valign=3D"top">
+																3.</td><td align=3D"left" style=3D"padding:0px 14px 16px 10=
+px" valign=3D"top">
+																<p style=3D"font-family:Roboto,Arial,sans-serif;font-size:1=
+6px;font-weight:normal;line-height:20px;color:#000000;text-align:left;margi=
+n:0px;padding:0px">
+																	Type in the name of your college or university. When it ap=
+pears on the list, select it and hit <strong>Save</strong>.</p></td></tr></=
+tbody></table></td></tr><tr>
+											<td align=3D"center" style=3D"padding:5px 0px 20px">
+												<table bgcolor=3D"#fedb00" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0">
+												=09
+														<tbody><tr>
+															<td align=3D"center">
+																<a href=3D"https://click.e.collegeboard.org/?qs=3Dc34b8d957=
+9b6f57937b15feb3aa0a5b4896574985ac778e3656a3842ee983862f24f98b69dd7349f4769=
+323ab12db2153f376a7b9dc96266c669048b51faa0bd" style=3D"display:inline-block=
+;border:2px solid #fedb00;margin:0px;padding:12px;background-color:#fedb00;=
+color:#000000;font-family:Roboto Slab,Arial,sans-serif;font-size:15px;font-=
+weight:bold;line-height:1;letter-spacing:0.02em;text-decoration:none" targe=
+t=3D"_blank">Sign In to My AP</a></td></tr></tbody></table></td></tr><tr>
+											<td align=3D"left" style=3D"padding:0px 0px 12px">
+												<p style=3D"font-family:Roboto,Arial,sans-serif;font-size:16px;=
+font-weight:normal;line-height:20px;color:#000000;text-align:left;margin:0p=
+x;padding:0px">
+													Your score report will include your AP scores from this year a=
+nd any previous years. If you haven&#39;t yet decided which college or univ=
+ersity you want to receive your free score send, you have until June 20 to =
+choose one. You get one free score send each year that you take an AP Exam.=
+ If you want to send AP scores to additional colleges, you can do so for a =
+fee on the <a href=3D"https://click.e.collegeboard.org/?qs=3Dc34b8d9579b6f5=
+7910eb9d8fa0ee55b4edbd733c6696696d26c328d95568841f102b57c89d8b81745ee5e05e5=
+f213c48a18097423f1b5c592ec0282c0157a2af" style=3D"color:#009cde;text-decora=
+tion:underline" target=3D"_blank">AP Scores website</a>.<br>
+													<br>
+													By sending scores, you can take full advantage of AP by streng=
+thening your college applications and being considered for credit and place=
+ment.<br>
+													<br>
+													Sincerely,<br>
+													<br>
+													Advanced Placement Program</p></td></tr></tbody></table></td><=
+/tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>
+        <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"=
+min-width:100%"><tbody><tr><td>=C2=A0<table bgcolor=3D"#eaeaea" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09
+		<tbody><tr>
+			<td align=3D"center" style=3D"padding:10px 20px 40px">
+				<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+				=09
+						<tbody><tr>
+							<td align=3D"center" style=3D"padding:0px 0px 20px">
+								<a href=3D"https://click.e.collegeboard.org/?qs=3Dc34b8d9579b6f5791=
+63dd5865f98cb51a6e9d6e6a3bbb7c70c5bdc8c0d85752e2e8590b6215b7aeb7e5b3bb9d9d2=
+bf1f23c435b0d483badcb1e6a9e8cc3c4fac" target=3D"_blank"><img alt=3D"College=
+ Board" src=3D"https://image.e.collegeboard.org/lib/fe4115707564047b751370/=
+m/1/59e27f4f-5fdd-48b9-a05a-48840d423ebb.png" style=3D"display:block;margin=
+:0px;border:0px;padding:0px;width:136px;font-family:Arial,sans-serif;font-s=
+ize:18px;color:#000000" width=3D"136"></a></td></tr><tr>
+							<td align=3D"center" style=3D"padding:0px 0px 18px;font-family:Arial=
+,sans-serif;font-size:20px;line-height:1">
+								<a href=3D"https://click.e.collegeboard.org/?qs=3Dc34b8d9579b6f579a=
+9b0534413d145f911360eddcee5917817d6575e0ede6c763d23958ca2990f99890acf4d8713=
+e54fa4603b844b2ec2e1a54833c79daa0878" style=3D"display:inline-block" title=
+=3D"" target=3D"_blank"><img height=3D"40" src=3D"https://image.e.collegebo=
+ard.org/lib/fe4115707564047b751370/m/1/2e15a679-90dd-4602-9598-ee7f785e5107=
+.png" style=3D"display:block;margin:0px;width:40px;padding:0px;text-align:c=
+enter;height:40px;border:0px" width=3D"40"></a> =C2=A0 <a href=3D"https://c=
+lick.e.collegeboard.org/?qs=3Dc34b8d9579b6f579914a3906680a4a380e6037acf8ff7=
+af966d8af5b1eaf3234928f0ad51c2100ecca824a572ded4c188654b6643497ec867c354c89=
+c41fb103" style=3D"display:inline-block" title=3D"" target=3D"_blank">
+<img height=3D"40" src=3D"https://image.e.collegeboard.org/lib/fe4115707564=
+047b751370/m/1/4e374056-3c65-4b8a-8cbf-1773275a0e00.png" style=3D"display:b=
+lock;margin:0px;width:40px;padding:0px;text-align:center;height:40px;border=
+:0px" width=3D"40"></a> =C2=A0 <a href=3D"https://click.e.collegeboard.org/=
+?qs=3Dc34b8d9579b6f579e2c991a5a24da8e9346e6abce69253d9861b19f6f3b1bcbbceb01=
+028880165aaa281105e47ca09913e9282ac1b1e22e1ba16db9b2336c17b" style=3D"displ=
+ay:inline-block" title=3D"" target=3D"_blank"><img height=3D"40" src=3D"htt=
+ps://image.e.collegeboard.org/lib/fe4115707564047b751370/m/1/98cd4642-ab41-=
+480b-b33c-79417279572a.png" style=3D"display:block;margin:0px;width:40px;pa=
+dding:0px;text-align:center;height:40px;border:0px" width=3D"40"></a> =C2=
+=A0=20
+<a href=3D"https://click.e.collegeboard.org/?qs=3Dc34b8d9579b6f579ae9c9dc3b=
+300f2500a955f2fd0692c2d610eabac34edddf54b67b0ce514cd5dca40a25c16cc76bf180fc=
+caa83b301acc03272af18b620d18" style=3D"display:inline-block" title=3D"" tar=
+get=3D"_blank"><img height=3D"40" src=3D"https://image.e.collegeboard.org/l=
+ib/fe4115707564047b751370/m/1/a98bea4f-2911-4228-afdc-1ed41d95f290.png" sty=
+le=3D"display:block;margin:0px;width:40px;border:0px;padding:0px;text-align=
+:center;height:40px" width=3D"40"></a></td></tr><tr>
+							<td align=3D"center" style=3D"padding:0px 0px 12px">
+								<p style=3D"font-family:Arial,sans-serif;font-size:14px;font-weight=
+:normal;line-height:20px;color:#000000;text-align:center;margin:0px;padding=
+:0px">
+									<strong>College Board</strong> | 250 Vesey Street | New York, NY 1=
+0281</p><p style=3D"font-family:Arial,sans-serif;font-size:12px;font-weight=
+:normal;line-height:24px;color:#000000;text-align:center;margin:0px;padding=
+:0px">
+									<a href=3D"https://view.e.collegeboard.org/?qs=3Dea1a6371682818dc8=
+5e94918a04312aff62813db6b5bd10829705815f548cebbd7ee6776082dd03b56c094796863=
+7e5a827dda94dc3ddd60b560a7f3d4cd8f8651274a5cc1fb52e83a2d71c5baaefa97" style=
+=3D"color:#000000;text-decoration:none" target=3D"_blank">View as webpage</=
+a> | <a href=3D"https://click.e.collegeboard.org/?qs=3Dc34b8d9579b6f579d6f4=
+7b5daab080428a56a1c4dcabe6bc6efa7031a223d6d001190ba12ade2abfa554b01bd520822=
+5049fd56c73fa8b15eff719cc189bbe23" style=3D"color:#000000;text-decoration:n=
+one" target=3D"_blank">Customer=C2=A0Service</a></p></td></tr><tr>
+							<td align=3D"center" style=3D"padding:0px 0px 12px">
+								<p style=3D"font-family:Arial,sans-serif;font-size:12px;font-weight=
+:normal;line-height:20px;color:#000000;text-align:center;margin:0px;padding=
+:0px">
+									To ensure these emails make it to your inbox, please add <a style=
+=3D"color:#000000;text-decoration:none">collegeboard@e.collegeboard.org</a>=
+ to your address=C2=A0book.</p></td></tr><tr>
+							<td align=3D"center" style=3D"padding:0px">
+								<p style=3D"font-family:Arial,sans-serif;font-size:12px;font-weight=
+:normal;line-height:20px;color:#000000;text-align:center;margin:0px;padding=
+:0px">
+									=C2=A9 2020 College Board</p></td></tr><tr>
+							<td>
+								<img src=3D"https://click.e.collegeboard.org/open.aspx?ffcb10-febf1=
+677756c0d7b-fe3416757561057c711372-fe4115707564047b751370-ff6e157075-fe2815=
+767d660778701273-ff3715727767" width=3D"1" height=3D"1" style=3D"display: n=
+one !important;"> <u></u></td></tr></tbody></table></td></tr></tbody></tabl=
+e></td></tr></tbody></table>
+       </td>
+      </tr>
+     </tbody></table>
+    </td>
+   </tr>
+   <tr>
+    <td>
+    =20
+    </td>
+   </tr>
+  </tbody></table>
+ =20
+   <div id=3D"m_-3371128284935590371new-gmail-hack" style=3D"display:none;w=
+hite-space:nowrap;font:15px courier;line-height:0">
+    =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0
+   </div>
+ =20
+ </div>
+
+</div></div>
+
+--0000000000006bfaee05a0c75f28--

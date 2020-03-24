@@ -1,0 +1,49 @@
+Return-Path: <tinleel1@learn.cssd.ab.ca>
+X-Original-To: zncuvzqgnm@mail.tdkiller.tk
+Delivered-To: zncuvzqgnm@mail.tdkiller.tk
+Received: from mail-lf1-f42.google.com (mail-lf1-f42.google.com [209.85.167.42])
+	by mail.tdkiller.tk (Postfix) with ESMTPS id 56FFE40520
+	for <zncuvzqgnm@mail.tdkiller.tk>; Sun,  1 Mar 2020 20:04:41 -0700 (MST)
+Received: by mail-lf1-f42.google.com with SMTP id n30so6715480lfh.6
+        for <zncuvzqgnm@mail.tdkiller.tk>; Sun, 01 Mar 2020 19:04:41 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=learn.cssd.ab.ca; s=google;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=+GTRVo6cy7rNLaRtOKSFk3jaaWTnRxfboOFAaUSNv+U=;
+        b=SRdRBglvPaFF6w9nspLaP3w1HUhjkTjKr7NLTNFo5WqViUIMPcsItYCNFwL/MbVieV
+         v7PP0zpIYQOW1sr7oYI5xgK3SbQcCAWz+y+43/b4Hg6BM5jwS/HiUlhoxemKlRR0c90L
+         fIZQndcYCFS18VHtoWiFu9K20z+IJQn/P6aIs=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=+GTRVo6cy7rNLaRtOKSFk3jaaWTnRxfboOFAaUSNv+U=;
+        b=Xb1KYotPfhTbjWGOXPRFt4KOoyW0bj6sZzSL/lfL0SBmHw08EseXbwPTBPVPOsrjxg
+         Cl1P0Kza9OZ+46t9D4O7a4HOqDLduQpYJWSjejRZpWeImld3AlEpOVrPoZGxtncjtL0F
+         R2MlbDXjqiB787gpLjS6gEaex48ywM3hJY28bqfGLOTH2FLJ++u+OppHuCc50V0gamIs
+         wfEURSP7fR0ZiFceYFVK0Q+xJM4wzCewVQaV4w5nclSNeuzCtTsQMNSbOpE4+dKUJBNo
+         MwTXdvZAuOfoM3/+/GDUdbBduhIvBjpkHlTiSf/19mMkKi+TJH8o3MO3rtMF6pFYv8Lg
+         TPLQ==
+X-Gm-Message-State: ANhLgQ0utw+WQv89iz/F9LUZk9muQkSljxCP7KZkEi/PGlKOXoOuzhm1
+	Lg4QC4MExEKr2fP//1wlXRlbq4KqMsD1gET+bVap3PYY
+X-Google-Smtp-Source: ADFU+vspiPyZc3YGfiteGsqRqtPa2CevrVJwL4dQrhVSUkLh08bkwrKrN1sULcRE2I61RPOdaNDJYJPJmPmkj0RmuCA=
+X-Received: by 2002:a05:6512:308c:: with SMTP id z12mr9263415lfd.27.1583118278537;
+ Sun, 01 Mar 2020 19:04:38 -0800 (PST)
+MIME-Version: 1.0
+From: Tin Le <tinleel1@learn.cssd.ab.ca>
+Date: Sun, 1 Mar 2020 20:04:27 -0700
+Message-ID: <CACc4fOJH59MJH=2zGKrpeU5C6pkckQzq1k6S_eJG7yPisK84Kg@mail.gmail.com>
+Subject: this is tiltle
+To: zncuvzqgnm@mail.tdkiller.tk
+Content-Type: multipart/alternative; boundary="000000000000a14726059fd67236"
+
+--000000000000a14726059fd67236
+Content-Type: text/plain; charset="UTF-8"
+
+this is body
+
+--000000000000a14726059fd67236
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">this is body</div>
+
+--000000000000a14726059fd67236--
