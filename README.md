@@ -41,4 +41,4 @@ https://youtu.be/a7jvCzCBHZc
 
 ## Authors  
 
-* **Tin Le** - **Lê Trung Tất Đạt** - (https://github.com/datletrung)  
+* **Brian Le** - **Lê Trung Tất Đạt** - (https://github.com/datletrung)  
