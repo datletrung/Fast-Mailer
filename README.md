@@ -31,13 +31,6 @@ A user on this Linux system will be an email. For example, Raspberry Pi has defa
 New email will come into /home/{yourusername}/mailbox/new/ (if you configured your Postfix follow the tutorial above).  
 File /mailer/fetch.php will pull out email from this folder. Therefore, if your configuration are different from me, you should change this in /mailer/fetch.php  
 
-### Demo video
-
-Watch video here:  
-
-```
-https://youtu.be/a7jvCzCBHZc
-```
 
 ## Authors  
 
