@@ -13,7 +13,7 @@ Postfix, Apache2, PHP
 
 ### Installing
  
-Setup and config Postfix Mail Server following this tutorial:  
+Setup and config Postfix Mail Server using this following tutorial:  
 
 ```
 https://www.tecmint.com/install-postfix-mail-server-with-webmail-in-debian/
