@@ -24,7 +24,7 @@ Note: You DO NOT have to setup Dovecot and Rainloop. However, in order to functi
 Download the repository and extract in to website directory (/var/www/html):  
 
 ```
-git clone https://github.com/datletrung/onetimemail.git
+git clone https://github.com/datletrung/Fast-Mailer.git
 ```
 
 A user on this Linux system will be an email. For example, Raspberry Pi has default user is "pi", there will be an email pi@yourdomain.com.  
