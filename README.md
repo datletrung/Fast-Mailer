@@ -21,7 +21,7 @@ https://www.tecmint.com/install-postfix-mail-server-with-webmail-in-debian/
 
 Note: You DO NOT have to setup Dovecot and Rainloop. However, in order to function correctly, I highly recommend you to setup relay host via Google SMTP.  
 
-Download or clone the repository and extract in to website directory (/var/www/html):  
+Download or clone the repository and extract in to website directory (/var/www/html).   
 
 A user on this Linux system will be an email. For example, Raspberry Pi has default user is "pi", there will be an email pi@yourdomain.com.  
 New email will come into /home/{yourusername}/mailbox/new/ (if you configured your Postfix follow the tutorial above).  
