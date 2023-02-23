@@ -19,7 +19,7 @@ Setup and config Postfix Mail Server using this following tutorial:
 https://www.tecmint.com/install-postfix-mail-server-with-webmail-in-debian/
 ```
 
-Note: You DO NOT have to setup Dovecot and Rainloop. However, in order to function correctly, I highly recommend you to setup relay host via Google SMTP.  
+Note: You DO NOT have to setup Dovecot and Rainloop. However, in order for the server to function correctly, I highly recommend you to setup relay host via Google SMTP.  
 
 Download or clone the repository and extract in to website directory (/var/www/html).   
 
