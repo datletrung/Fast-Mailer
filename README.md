@@ -1,6 +1,6 @@
 # Fast Mailer
 
-Create a temporary email  
+Create a temporary email server  
 
 ## Getting Started
 
